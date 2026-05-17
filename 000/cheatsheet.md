@@ -1,5 +1,6 @@
 𝒩 = the network
 cᵢ = individual neuron
+Pr = predicate expression
 Nᵢ(t) = "neuron i fired at time t"
 S = time shift, S(P)(t) = P(t-1)
 Principia dot groups:
